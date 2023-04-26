@@ -1,0 +1,33 @@
+{
+  "list": [
+    {
+      "system": "stripe",
+      "blocks" : [
+        {
+          "sum": "500",
+          "date": "2023-04-04 12:06:00"
+        },
+        {
+          "sum": "230",
+          "date": "2023-04-04 12:07:00"
+        },
+        {
+          "sum": "125",
+          "date": "2023-04-04 12:08:00"
+        }
+      ],
+      "currency": "USD",
+      "minimal": "500",
+      "sign": "27acb0bc7a946658739d5f6a821d4ffe"
+    },
+    {
+      "system": "alipay",
+      "paymentSum": "500",
+      "refernceId": "1234567890",
+      "currency": "CNY",
+      "minimal": "550",
+      "date": "2023-04-04 21:00:00",
+      "paymentSign": "d54d1702ad0f8326224b817c796763c9"
+    }
+  ]
+}
